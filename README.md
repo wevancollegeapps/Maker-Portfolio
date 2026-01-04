@@ -1,7 +1,5 @@
 # Maker-Portfolio
-A collection of all my projects code and files. It will include the following: <br/>
+A collection of all my projects code and files.<br/>
 <br/>
-Game Code examples<br/>
-PLTW Eye tracking software<br/>
-Arduino Code for DRSSTC(Tesla coil)<br/>
-LTspice raw data<br/>
+https://docs.google.com/spreadsheets/d/1Yj6iq6n2ddG38cos_a-q1nhzk9fCzPg1wvLn1SOVgMg/edit?gid=1528772167#gid=1528772167 <br/>
+A link to my spreadsheet for my QCWDRSSTC project
