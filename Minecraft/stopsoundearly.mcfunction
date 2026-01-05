@@ -1,0 +1,1 @@
+stopsound @a neutral minecraft:item.goat_horn.sound.3
