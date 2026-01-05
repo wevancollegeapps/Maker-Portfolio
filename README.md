@@ -6,3 +6,6 @@ A link to my spreadsheet for my QCWDRSSTC project
 
 https://drive.google.com/file/d/1iro9ndsI2IL6N_bL3yKHGxuYc5WPFXW-/view?usp=sharing <br/>
 A link to my LTspice simulations for my QCWDRSSTC project
+
+If you are going to run my eye tracking software this project by antoinelame MUST be installed: <br/>
+https://github.com/antoinelame/GazeTracking
