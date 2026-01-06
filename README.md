@@ -8,4 +8,6 @@ https://drive.google.com/file/d/1iro9ndsI2IL6N_bL3yKHGxuYc5WPFXW-/view?usp=shari
 A link to my LTspice simulations for my QCWDRSSTC project
 
 If you are going to run my eye tracking software this project by antoinelame MUST be installed: <br/>
-https://github.com/antoinelame/GazeTracking
+https://github.com/antoinelame/GazeTracking <br/>
+
+If you are going to open the lidar simulation your character must be set to R6.
